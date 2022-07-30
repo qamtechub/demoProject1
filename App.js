@@ -14,7 +14,7 @@ const App =() => {
     <View
     style={{
       
-      backgroundColor:'yellow',
+      backgroundColor:'green',
     
     }}
     >
