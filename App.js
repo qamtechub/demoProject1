@@ -12,11 +12,7 @@ const App =() => {
 
   return (
     <View
-    style={{
-      
-      backgroundColor:'green',
     
-    }}
     >
       <TouchableOpacity
       onPress={()=>{
